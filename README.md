@@ -13,3 +13,9 @@ run a zig file with:
 run a test with:
 
     zig test <path_to_test_file>.zig
+
+NOTE:
+pub vs export:
+
+    pub = visible to files inside the module
+    export = visible outside of the module
